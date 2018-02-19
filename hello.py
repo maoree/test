@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-=======
-print ("changed2")
-print ("test")
-print ("")
->>>>>>> 04786bf8717edb4d7e6865967a8574e65e515dd5
-
 def multsum(below):
 
     count3  = below // 3
